@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I study Computer Science and Mathematics at Missouri State Unviersity.<br>I'm currently working on (https://missouristatelacrosse.com/).<br>I'm currently learning React.js.
 
 
