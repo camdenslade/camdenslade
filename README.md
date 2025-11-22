@@ -1,5 +1,5 @@
 # About Me:
-I study Computer Science and Mathematics at Missouri State Unviersity.<br>I'm currently working on (https://missouristatelacrosse.com/).<br>I'm currently learning React.js.
+I study Computer Science and Mathematics at Missouri State Unviersity.<br>I'm currently working on (https://missouristatelacrosse.com/) and nova-dom.<br>I'm currently learning React.js.
 
 
 ## 🌐 Socials:
