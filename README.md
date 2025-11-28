@@ -14,13 +14,20 @@ https://github.com/camdenslade/nova-dom.
 - https://www.linkedin.com/in/camden-slade-230157155/
 
 ## Tech Stack
-Languages Java, JavaScript, TypeScript, Lua, HTML5, CSS3, Bash
-
-Frontend React, React Router, TailwindCSS, Bootstrap, Vite
-
-Backend & Cloud Node.js, Firebase, AWS, Google Cloud, Cloudflare
-
-Tools & DevOps Git, GitHub, Docker, Gradle, Maven, Postman, ESLint
+- Java
+- JavaScript/TypeScript
+- HTML/CSS
+- TailwindCSS
+- React.js + Router
+- Vite.js
+- Node.js
+- Firebase
+- AWS/GCP
+- Cloudflare
+- Git/Github
+- Docker
+- Gradle/Maven
+- SpringBoot
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=camdenslade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
