@@ -1,13 +1,21 @@
-# About Me:
-I study Computer Science and Mathematics at Missouri State Unviersity.<br>I'm currently working on (https://missouristatelacrosse.com/) and nova-dom.<br>I'm currently learning React.js.
+I am a Computer Science and Mathematics student at Missouri State University.
 
+## Currently working on: Missouri State Lacrosse and nova-dom.
+# https://github.com/camdenslade/missouristatelacrosse.
+- This servers as the Missouri State Lacrosse official website, it has role-based user experience as well as backend integration for PayPal and Printify REST API's, account request authorization using Firebase Auth, and finally an email service set up on no-reply@missouristatelacrosse.com using Amazon's SES.
+# https://github.com/camdenslade/nova-dom.
+- This is my first attempt at an open source repository. The aim of this project is to build an engine that is able to import website's existing code and allow the user to modify their website through a user-friendly interface built upon the DOM. The baseplate is built using TypeScript and React.js with a document tree for the nodes. This would primarily work within the code past the return statement of their existing code. Future plans are to add a lightweight LLM for variable matching to further integrate the new UI/UX elements along with expanding the engine's compatablility to other frameworks such as Angular, Vue, etc. in a personal private project.
+# Currently learning: React.js.
+# Contact: LinkedIn • Email
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camden-slade-230157155) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:camdenslade@outlook.com) 
+# Tech Stack
+Languages Java, JavaScript, TypeScript, Lua, HTML5, CSS3, Bash
 
+Frontend React, React Router, TailwindCSS, Bootstrap, Vite
 
-# Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+Backend & Cloud Node.js, Firebase, AWS, Google Cloud, Cloudflare
+
+Tools & DevOps Git, GitHub, Docker, Gradle, Maven, Postman, ESLint
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=camdenslade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
