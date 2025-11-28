@@ -30,9 +30,6 @@ https://github.com/camdenslade/nova-dom.
 - SpringBoot
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=camdenslade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=camdenslade&theme=dark&hide_border=false)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=camdenslade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=camdenslade&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
