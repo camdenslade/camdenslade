@@ -18,7 +18,7 @@ https://github.com/camdenslade/nova-dom.
 - JavaScript/TypeScript
 - HTML/CSS
 - TailwindCSS
-- React.js + Router
+- React.js/React Native
 - Vite.js
 - Node.js
 - Firebase
@@ -28,6 +28,9 @@ https://github.com/camdenslade/nova-dom.
 - Docker
 - Gradle/Maven
 - SpringBoot
+- Nest.js
+- Express.js
+- Expo.js
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=camdenslade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
