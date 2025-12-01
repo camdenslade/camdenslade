@@ -36,5 +36,12 @@ https://github.com/camdenslade/EvenApp.
 - Expo
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=camdenslade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img
+    height="200"
+    align="center"
+    src="https://github-readme-stats-sigma-eight-14.vercel.app/api/top-langs?username=camdenslade&layout=compact&langs_count=8&card_width=320&theme=github_dark"
+  />
+</a>
+
 
