@@ -32,7 +32,7 @@ https://github.com/camdenslade/EvenApp.
 - Gradle/Maven
 - SpringBoot
 - Nest.js
-- Express.js
+- Postgres/Redis
 - Expo
 
 
