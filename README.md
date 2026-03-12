@@ -1,37 +1,40 @@
-I am a Computer Science and Mathematics student at Missouri State University.
+# Camden Slade
 
-## Currently working on these projects:.
-https://github.com/camdenslade/missouristatelacrosse.
-- This serves as the Missouri State Lacrosse official website, it has role-based user experience as well as backend integration for PayPal and Printify REST API's, account request authorization using Firebase Auth, and finally an email service set up on no-reply@missouristatelacrosse.com using Amazon's SES.
+Computer Science & General Mathematics student at Missouri State University.
 
-https://github.com/camdenslade/nova-dom.
-- This is my first attempt at an open source repository. The aim of this project is to build an engine that is able to import website's existing code and allow the user to modify their website through a user-friendly interface built upon the DOM. The baseplate is built using TypeScript and React.js with a document tree for the nodes. This would primarily work within the code past the return statement of their existing code. Future plans are to add a lightweight LLM for variable matching to further integrate the new UI/UX elements along with expanding the engine's compatablility to other frameworks such as Angular, Vue, etc. in a personal private project.
-  
-# Currently learning:
-- React.js and TypeScript
-# Contact:
-- camdenslade@outlook.com
-- https://www.linkedin.com/in/camden-slade-230157155/
+---
+
+## Projects
+
+**[Missouri State Lacrosse](https://github.com/camdenslade/missouristatelacrosse)**  
+Official website for Missouri State Lacrosse. Features role-based access, PayPal and Printify REST API integrations, account authorization via Firebase Auth, and a transactional email service on `no-reply@missouristatelacrosse.com` through Amazon SES.
+
+**[nova-dom](https://github.com/camdenslade/nova-dom)**  
+An open-source DOM engine that imports existing website code and exposes it through a visual editing interface. Built with TypeScript and React, using a document tree for node management. Targets code past the `return` statement of existing components. Planned: lightweight LLM integration for variable matching, and support for Angular, Vue, and other frameworks.
+
+---
+
+## Currently Learning
+- React.js & TypeScript
+
+---
 
 ## Tech Stack
-- Java
-- JavaScript/TypeScript
-- HTML/CSS
-- TailwindCSS
-- React.js/React Native
-- Vite.js
-- Node.js
-- Firebase
-- AWS/GCP
-- Cloudflare
-- Git/Github
-- Docker
-- Gradle/Maven
-- SpringBoot
-- Nest.js
-- Postgres/Redis
-- Expo
 
+`Java` `JavaScript / TypeScript` `HTML / CSS` `TailwindCSS` `React.js / React Native`  
+`Vite` `Node.js` `NestJS` `Spring Boot` `Expo`  
+`Firebase` `AWS / GCP` `Cloudflare`  
+`PostgreSQL` `Redis` `Docker` `Gradle / Maven` `Git`
+
+---
+
+## Contact
+
+[camdenslade@outlook.com](mailto:camdenslade@outlook.com) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/camden-slade-230157155/) &nbsp;·&nbsp;
+[cslade.space](https://cslade.space)
+
+---
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img
@@ -40,5 +43,3 @@ https://github.com/camdenslade/nova-dom.
     src="https://github-readme-stats-sigma-eight-14.vercel.app/api/top-langs?username=camdenslade&layout=compact&langs_count=8&card_width=320&theme=github_dark"
   />
 </a>
-
-
