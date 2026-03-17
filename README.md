@@ -18,14 +18,14 @@ Native macOS launcher for Windows games via Wine. Features automatic Steam game 
 ---
 
 ## Currently Learning
-- React, TypeScript, and recently Swift
+- React, TypeScript, and Swift
 
 ---
 
 ## Tech Stack
 
-`Java` `JavaScript / TypeScript` `HTML / CSS` `TailwindCSS` `React.js / React Native`  
-`Vite` `Node.js` `NestJS` `Spring Boot` `Expo`  
+`JavaScript / TypeScript` `Swift` `Java` `SwiftUI` `TailwindCSS` `React / React Native`  
+`Node.js` `NestJS` `Spring Boot` `Expo`  
 `Firebase` `AWS / GCP` `Cloudflare`  
 `PostgreSQL` `Redis` `Docker` `Gradle / Maven` `Git`
 
