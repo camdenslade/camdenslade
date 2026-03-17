@@ -18,7 +18,7 @@ Native macOS launcher for Windows games via Wine. Features automatic Steam game 
 ---
 
 ## Currently Learning
-- React.js & TypeScript
+- React, TypeScript, and recently Swift
 
 ---
 
