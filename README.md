@@ -12,7 +12,7 @@ Official website for Missouri State Lacrosse. Features role-based access, PayPal
 **[nova-dom](https://github.com/camdenslade/nova-dom)**  
 An open-source DOM engine that imports existing website code and exposes it through a visual editing interface. Built with TypeScript and React, using a document tree for node management. Targets code past the `return` statement of existing components. Planned: lightweight LLM integration for variable matching, and support for Angular, Vue, and other frameworks.
 
-**[Smoke Launcher](https://github.com/camdenslade/smoke-launcher)**
+**[Smoke Launcher](https://github.com/camdenslade/smoke-launcher)**  
 Native macOS launcher for Windows games via Wine. Features automatic Steam game detection from ACF manifests, per-bottle DXVK/ESync toggles, Steam CDN artwork, and a liquid glass SwiftUI interface.
 
 ---
