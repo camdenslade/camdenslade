@@ -9,8 +9,8 @@ Computer Science & General Mathematics student at Missouri State University.
 **[Missouri State Lacrosse](https://github.com/camdenslade/missouristatelacrosse)**  
 Official website for Missouri State Lacrosse. Features role-based access, PayPal and Printify REST API integrations, account authorization via Firebase Auth, and a transactional email service on `no-reply@missouristatelacrosse.com` through Amazon SES.
 
-**[nova-dom](https://github.com/camdenslade/nova-dom)**  
-An open-source DOM engine that imports existing website code and exposes it through a visual editing interface. Built with TypeScript and React, using a document tree for node management. Targets code past the `return` statement of existing components. Planned: lightweight LLM integration for variable matching, and support for Angular, Vue, and other frameworks.
+**[VERSA](https://github.com/camdenslade/VERSA)**  
+Versa is a cross-platform task manager with real-time sync across iOS and web. It uses a Rust CRDT engine (Loro) as the shared core which is compiled to WebAssembly for the browser and an XCFramework for iOS via UniFFI. A Go relay server broadcasts diffs between clients over WebSockets, so edits on one device appear instantly on another without a traditional REST API for mutations.
 
 **[Smoke Launcher](https://github.com/camdenslade/smoke-launcher)**  
 Native macOS launcher for Windows games via Wine. Features automatic Steam game detection from ACF manifests, per-bottle DXVK/ESync toggles, Steam CDN artwork, and a liquid glass SwiftUI interface.
@@ -23,8 +23,7 @@ Native macOS launcher for Windows games via Wine. Features automatic Steam game 
 ---
 
 ## Tech Stack
-
-`TypeScript` `Swift` `Java` `SwiftUI` `TailwindCSS` `React / React Native`  
+`TypeScript` `Swift` `Java` `SwiftUI` `TailwindCSS` `React / React Native` `Rust` `Go`
 `NestJS` `Spring Boot` `Expo`  
 `Firebase` `AWS / GCP` `Cloudflare`  
 `PostgreSQL` `Redis` `Docker` `Gradle / Maven` `Git`
@@ -33,7 +32,8 @@ Native macOS launcher for Windows games via Wine. Features automatic Steam game 
 
 ## Contact
 
-[camdenslade@outlook.com](mailto:camdenslade@outlook.com) &nbsp;·&nbsp;
+[+1 417-506-9365](tel:+14175069365) &nbsp;·&nbsp;
+[csladedev@outlook.com](mailto:csladedev@outlook.com) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/camden-slade-230157155/) &nbsp;·&nbsp;
 [cslade.space](https://cslade.space)
 
