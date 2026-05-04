@@ -1,6 +1,6 @@
 # Camden Slade
 
-Computer Science & General Mathematics student at Missouri State University.
+Senior Computer Science & General Mathematics student at Missouri State University.
 
 ---
 
