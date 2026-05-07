@@ -1,6 +1,6 @@
 # Camden Slade
 
-B.S. Computer Science
+B.S. Computer Science<br>
 B.S. General Mathematics
 
 ---
