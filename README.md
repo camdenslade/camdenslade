@@ -13,8 +13,10 @@ Official website for Missouri State Lacrosse. Features role-based access, PayPal
 **[VERSA](https://github.com/camdenslade/VERSA)**  
 Versa is a cross-platform task manager with real-time sync across iOS and web. It uses a Rust CRDT engine (Loro) as the shared core which is compiled to WebAssembly for the browser and an XCFramework for iOS via UniFFI. A Go relay server broadcasts diffs between clients over WebSockets, so edits on one device appear instantly on another without a traditional REST API for mutations.
 
-**[Smoke Launcher](https://github.com/camdenslade/smoke-launcher)**  
-Native macOS launcher for Windows games via Wine. Features automatic Steam game detection from ACF manifests, per-bottle DXVK/ESync toggles, Steam CDN artwork, and a liquid glass SwiftUI interface.
+**[Binate](https://github.com/camdenslade/Binate)**  
+A semantic binary diff tool that compares Rust binaries by masking known sources of non-determinism (build IDs, timestamps, absolute paths), then maps changed byte ranges back to source symbols and file locations via DWARF debug info. Used for build reproducibility validation in CI pipelines.
+
+
 
 ---
 
