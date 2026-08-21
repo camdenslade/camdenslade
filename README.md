@@ -1,7 +1,6 @@
 # Camden Slade
 
-B.S. Computer Science<br>
-B.S. General Mathematics
+B.S. Computer Science · General Mathematics
 
 ---
 
@@ -12,10 +11,6 @@ Official website for Missouri State Lacrosse. Features role-based access, PayPal
 
 **[VERSA](https://github.com/camdenslade/VERSA)**  
 Versa is a cross-platform task manager with real-time sync across iOS and web. It uses a Rust CRDT engine (Loro) as the shared core which is compiled to WebAssembly for the browser and an XCFramework for iOS via UniFFI. A Go relay server broadcasts diffs between clients over WebSockets, so edits on one device appear instantly on another without a traditional REST API for mutations.
-
-**[Glyph](https://github.com/camdenslade/glyph)**  
-A GPU-accelerated reactive UI framework for Rust. Renders a declarative View tree via wgpu with SDF rounded-rect shaders, cosmic-text Glyphatlas, Taffy flexbox layout, and signal-based reactivity. Optional macOS native bridge via objc2.
-
 
 
 ---
