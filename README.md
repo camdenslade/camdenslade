@@ -32,7 +32,7 @@ Versa is a cross-platform task manager with real-time sync across iOS and web. I
 
 [+1 417-506-9365](tel:+14175069365) &nbsp;·&nbsp;
 [csladedev@outlook.com](mailto:csladedev@outlook.com) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/camden-slade-230157155/) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/camdenslade/) &nbsp;·&nbsp;
 [cslade.space](https://cslade.space/portfolio)
 
 ---
