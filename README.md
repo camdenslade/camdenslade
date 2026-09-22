@@ -36,7 +36,7 @@ Transforms a codebase into a semantic graph of symbols and relationships, then e
 [+1 417-506-9365](tel:+14175069365) &nbsp;·&nbsp;
 [csladedev@outlook.com](mailto:csladedev@outlook.com) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/camdenslade/) &nbsp;·&nbsp;
-[cslade.space](https://cslade.space/portfolio)
+[cslade.space](https://camdenslade.com/portfolio)
 
 ---
 
